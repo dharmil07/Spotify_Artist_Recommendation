@@ -1,2 +1,3 @@
 # Spotify_Artist_Recommendation
-As part of our project, we used the Spotify App’s data in order to develop an artist recommendation model based on artist’s genres, subgenres, followers and popularity which will help users to pick songs of their interest.
+
+Our goal is to provide a recommendation system using content based filtering algorithm that recommends its users similar artist based on any particular genre,sub-genre, followers, popularity. I have chosen to build Content-based recommendation system to predict more accurate results by text based recommendation. Content-based recommendation mainly depends on item features for recommendations. In short, we will use Python to develop this model and use Tableau to help Spotifyunderstand its user’s choice and aid them to enhance their business & customer satisfaction.
